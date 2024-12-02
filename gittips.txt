@@ -2,6 +2,7 @@
 First to check the available branches through localsystem Use command "git branch -a"
 
 2)To pull(reflect changes) the newly created branch,use command "git pull"
+ --> to pull the changes happened in the main branch, use -> "git pull origin main"
 
 3)to open the newly created branch - git checkout branchname
 
