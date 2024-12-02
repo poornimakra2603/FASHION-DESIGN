@@ -1,0 +1,21 @@
+ //STEP 1 
+    git clone https://github.com/poornimakra2603/FASHION-DESIGN.git
+
+//STEP 2
+    cd FASHION-DESIGN
+
+//STEP 3 
+    git status    //status checking
+
+//STEP 4 
+    git add plain.txt   //adding a file via local system
+
+//STEP 5 
+    git commit -m "plain.txt file is added"     //now the txtfile is currently inside the FASHION-DESIGN folder and by using commit command to store this file in the gitgithub folder.
+
+//STEP 6 
+   git push origin main             // pushing this txt file updation into the github repository 
+
+
+//To modify the file 
+     -- after modifying again do the same process (from add to push)
