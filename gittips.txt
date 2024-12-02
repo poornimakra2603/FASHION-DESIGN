@@ -1,0 +1,20 @@
+1)Creating new branch in GitHub website doesn't reflect in local system
+First to check the available branches through localsystem Use command "git branch -a"
+
+2)To pull(reflect changes) the newly created branch,use command "git pull"
+
+3)to open the newly created branch - git checkout branchname
+
+4)To identify the diff b/w main and newly created branch - git diff branchname
+
+5)To merge the two branches - git merge branchname (here branchname is another branch name which is not currently connected). Then after push the changes using "git push origin branchname"
+
+6)we can merge the branches from the main repository - so there we have to raise pull request in GitHub 
+
+7)In GitHub, if two branches updates at the same time/pull req -> Then should resolve those conflicts while merging one of the pull request 
+  -->How to resolve ?
+      * click Resolve Conflicts
+      * Then make correct changes
+      * click commit merge
+
+
