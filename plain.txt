@@ -19,3 +19,6 @@
 
 //To modify and delete the file 
      -- after modifying(or while deleting) again do the same process (from add to push)
+
+//To get the changes happened in the github into this gitgithub folder just type
+    git pull
