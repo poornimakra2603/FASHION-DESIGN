@@ -17,5 +17,5 @@
    git push origin main             // pushing this txt file updation into the github repository 
 
 
-//To modify the file 
-     -- after modifying again do the same process (from add to push)
+//To modify and delete the file 
+     -- after modifying(or while deleting) again do the same process (from add to push)
